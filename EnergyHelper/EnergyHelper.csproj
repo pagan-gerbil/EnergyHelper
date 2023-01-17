@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="AlphaEss\" />
-    <Folder Include="OctopusAgile\" />
     <Folder Include="Zappi\" />
   </ItemGroup>
 
